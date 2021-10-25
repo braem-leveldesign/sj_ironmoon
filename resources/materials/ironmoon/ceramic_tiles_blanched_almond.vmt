@@ -1,0 +1,9 @@
+PBR {
+    $basetexture "ironmoon/ceramic_tiles_blanched_almond_basecolor"
+    $bumpmap "ironmoon/ceramic_tiles_blanched_almond_hormal"
+    $mraotexture "ironmoon/ceramic_tiles_blanched_almond_mrao"
+    $parallax "1"
+    $parallaxdepth "0.1"
+    $parallaxcenter "0.4"
+    $envmap "env_cubemap"
+}

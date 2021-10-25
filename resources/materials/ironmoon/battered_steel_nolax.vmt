@@ -1,0 +1,7 @@
+PBR
+{
+	$basetexture "ironmoon/battered_steel_basecolor"
+	$bumpmap "ironmoon/battered_steel_hormal"
+	$mraotexture "ironmoon/battered_steel_mrao"
+	$envmap "env_cubemap"
+}

@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture "ironmoon/maptitle"
+	$translucent "1"
+}

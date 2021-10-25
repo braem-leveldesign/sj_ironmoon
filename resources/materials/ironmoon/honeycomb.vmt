@@ -1,0 +1,14 @@
+UnlitGeneric
+{
+	$basetexture "ironmoon/honeycomb"
+	$translucent "1"
+	"Proxies"
+	{
+		"TextureScroll"
+			{
+			"Texturescrollvar" "$Basetexturetransform"
+			"Texturescrollrate" "0.05"
+			"Texturescrollangle" "45"
+			}
+	}
+}

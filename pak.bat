@@ -1,0 +1,1 @@
+"D:\Chaos\Momentum\game\bin\win64\bspzip.exe" -game "D:\Chaos\Momentum\game\momentum" -addlist "sj_ironmoon.bsp" "filelist.txt" "sj_ironmoon.bsp"

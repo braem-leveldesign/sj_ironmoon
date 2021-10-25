@@ -1,0 +1,7 @@
+PBR
+{
+	$basetexture "ironmoon/moon_crater_basecolor"
+	$bumpmap "ironmoon/moon_crater_hormal"
+	$mraotexture "ironmoon/moon_crater_mrao"
+	$envmap "env_cubemap"
+}

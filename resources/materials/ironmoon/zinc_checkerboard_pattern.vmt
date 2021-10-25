@@ -1,0 +1,9 @@
+PBR
+{
+	$basetexture "ironmoon/zinc_checkerboard_pattern_basecolor"
+	$bumpmap "ironmoon/zinc_checkerboard_pattern_hormal"
+	$mraotexture "ironmoon/zinc_checkerboard_pattern_mrao"
+	$parallax "1"
+	$parallaxdepth "0.01"
+	$envmap "env_cubemap"
+}

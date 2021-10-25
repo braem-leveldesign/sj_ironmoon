@@ -1,0 +1,1 @@
+"D:\Chaos\Momentum\game\bin\win64\bspzip.exe" -game "D:\Chaos\Momentum\game\momentum" -repack -compress "sj_ironmoon.bsp"

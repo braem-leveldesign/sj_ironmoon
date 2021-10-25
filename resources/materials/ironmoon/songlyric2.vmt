@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture "ironmoon/songlyric2"
+	$translucent "1"
+}

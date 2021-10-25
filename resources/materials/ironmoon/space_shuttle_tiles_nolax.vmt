@@ -1,0 +1,7 @@
+PBR
+{
+	$basetexture "ironmoon/space_shuttle_tiles_basecolor"
+	$bumpmap "ironmoon/space_shuttle_tiles_hormal"
+	$mraotexture "ironmoon/space_shuttle_tiles_mrao"
+	$envmap "env_cubemap"
+}

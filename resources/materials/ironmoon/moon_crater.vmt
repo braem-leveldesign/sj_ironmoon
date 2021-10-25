@@ -1,0 +1,10 @@
+PBR
+{
+	$basetexture "ironmoon/moon_crater_basecolor"
+	$bumpmap "ironmoon/moon_crater_hormal"
+	$mraotexture "ironmoon/moon_crater_mrao"
+	$parallax "1"
+	$parallaxdepth "0.085"
+	$parallaxcenter "0.5"
+	$envmap "env_cubemap"
+}
