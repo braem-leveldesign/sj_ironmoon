@@ -9,6 +9,13 @@ A sticky jump map for Momentum Mod inspired by the poem "I swallowed an iron moo
 ![](screenshots/jump2.png)
 ![](screenshots/jumptotitle.png)
 
+## Shoutouts
+
+Big thanks to:
+- False_ (@EthanV-3D) for general mapping help
+- fingerprince (@tsa96) for help with converting textures to source and using PBR/parallax
+- Ninja Cookie (@NinjaTheCookie) for general mapping help
+
 ## Resources
 
 - PBR textures from Substance3D (https://substance3d.adobe.com/assets/allassets)
