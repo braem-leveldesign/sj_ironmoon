@@ -38,6 +38,16 @@ materials/ironmoon/zinc_checkerboard_pattern.vmt
 resources\materials\ironmoon\zinc_checkerboard_pattern.vmt
 materials/ironmoon/zinc_checkerboard_pattern_nolax.vmt
 resources\materials\ironmoon\zinc_checkerboard_pattern_nolax.vmt
+materials/ironmoon/copper_grid_tiles_basecolor.vtf
+resources\materials\ironmoon\copper_grid_tiles_basecolor.vtf
+materials/ironmoon/copper_grid_tiles_hormal.vtf
+resources\materials\ironmoon\copper_grid_tiles_hormal.vtf
+materials/ironmoon/copper_grid_tiles_mrao.vtf
+resources\materials\ironmoon\copper_grid_tiles_mrao.vtf
+materials/ironmoon/copper_grid_tiles.vmt
+resources\materials\ironmoon\copper_grid_tiles.vmt
+materials/ironmoon/copper_grid_tiles_nolax.vmt
+resources\materials\ironmoon\copper_grid_tiles_nolax.vmt
 materials/ironmoon/honeycomb.vtf
 resources\materials\ironmoon\honeycomb.vtf
 materials/ironmoon/honeycomb.vmt

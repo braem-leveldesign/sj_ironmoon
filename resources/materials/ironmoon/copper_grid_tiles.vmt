@@ -1,0 +1,10 @@
+PBR
+{
+	$basetexture "ironmoon/copper_grid_tiles_basecolor"
+	$bumpmap "ironmoon/copper_grid_tiles_hormal"
+	$mraotexture "ironmoon/copper_grid_tiles_mrao"
+	$parallax "1"
+	$parallaxdepth "0.01"
+	$parallaxcenter "0.7"
+	$envmap "env_cubemap"
+}
