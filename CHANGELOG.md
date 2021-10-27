@@ -11,6 +11,7 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/
 
 ### Changes
 - Removed texture dependencies on Portal 2
+- Made 1st jump trim illusionary, making a starting strategy much easier/less annoying
 
 ## [1.0] - 2021-10-25
 Initial full release.
