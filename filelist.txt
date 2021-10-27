@@ -100,6 +100,10 @@ materials/skybox/space_8up.vtf
 resources\materials\skybox\space_8up.vtf
 materials/skybox/space_8up.vmt
 resources\materials\skybox\space_8up.vmt
+materials/glass/glasswindow002a_stripes.vtf
+resources\materials\glass\glasswindow002a_stripes.vtf
+materials/glass/glasswindow002a_stripes.vmt
+resources\materials\glass\glasswindow002a_stripes.vmt
 sound/portalambient.wav
 resources\sound\portalambient.wav
 sound/soundscape.wav

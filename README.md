@@ -20,4 +20,5 @@ Big thanks to:
 
 - PBR textures from Substance3D (https://substance3d.adobe.com/assets/allassets)
 - Skybox from Mr. Who's port of some Space Engineers' skyboxes (https://gamebanana.com/mods/7923)
+- Glass texture from AsG_Alligator (https://tf2maps.net/downloads/striped-glass.8825/)
 - Sounds from Sonniss' many GDC soundpack releases (https://sonniss.com/gameaudiogdc#1605030813191-c5a1f3d0-8baf)
