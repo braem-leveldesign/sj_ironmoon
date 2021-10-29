@@ -104,7 +104,7 @@ materials/glass/glasswindow002a_stripes.vtf
 resources\materials\glass\glasswindow002a_stripes.vtf
 materials/glass/glasswindow002a_stripes.vmt
 resources\materials\glass\glasswindow002a_stripes.vmt
-sound/portalambient.wav
-resources\sound\portalambient.wav
-sound/soundscape.wav
-resources\sound\soundscape.wav
+sound/ambient/portalambient.wav
+resources\sound\ambient\portalambient.wav
+sound/music/soundscape.wav
+resources\sound\music\soundscape.wav
