@@ -7,6 +7,7 @@ A sticky jump map for Momentum Mod inspired by the poem "I swallowed an iron moo
 ![](screenshots/main_title.png)
 ![](screenshots/jump1.png)
 ![](screenshots/jump2.png)
+![](screenshots/jump3.png)
 ![](screenshots/jumptotitle.png)
 
 ## Shoutouts
